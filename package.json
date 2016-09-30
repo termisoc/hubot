@@ -1,6 +1,6 @@
 {
   "name": "termisoc-hubot",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "private": true,
   "author": "Nick Charlton <nick@nickcharlton.net>",
   "description": "a special bot",
@@ -18,7 +18,8 @@
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.0",
     "hubot-slack": "^4.1.0",
-    "hubot-plusplus": "^1.1.7"
+    "hubot-plusplus": "^1.1.7",
+    "hubot-last.fm": "^0.3.0"
   },
   "engines": {
     "node": "0.10.x"
